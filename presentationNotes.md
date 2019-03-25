@@ -177,3 +177,22 @@
 - try a combo of objects
 - try changing attributes
 - try adding your own image
+
+# three.js
+
+- as I mentioned before, A-frame is built upon three.js
+- click link "Developing with three.js"
+- these A-frame docs tell you how to access three.js within a-frame
+- the magical line is "Accessing the three.js Scene" - something to keep in mind
+
+# Glossary
+
+- click link "Quick dirty guide to AR terms you need to know"
+- "Extended Reality" encapsulates AR/Vr
+- focus on glTF - read it, this is the one you want to gravitate toward which will allow you to export your models like this
+- click link "3d content on fb" - fb announces support for glTF 2.0 on their fb feeds
+- so this is glTF which you can import in A-frame
+
+# webxr.io
+
+-
