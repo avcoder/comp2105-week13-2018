@@ -133,4 +133,47 @@
 
 - your turn to play
 - fork this codepen
-- we'll go step by step
+- we'll go step by step, and hopefully you'll see something on your screen where you'll get a wow factor
+
+# Step 1
+
+- so what we're doing here, is we're adding a scene
+- other libraries like three.js have a similar kind of thing
+- A-frame is built on top of three.js
+
+# Step 2
+
+- add a-marker
+- What are you saying thru this line is: preset='hiro' means
+- hey camera i want you to recognize this hiro image and when it's flashed on screen then do something
+
+# Step 3
+
+- Add a-box
+- notice the position has an x y z coordinate
+
+# Step 4
+
+- Final step, show the marker to your webcam
+- now I created a link here tiny.cc/hiro - you can actually use your phone if the paper method isn't working
+- so I can turn the cube
+- play with that, I'll walk around to see if you got it working
+
+# change colour
+
+- next challenge - try changing the colour
+- hint: I've given you a link here
+
+# change opacity
+
+- next challenge - try changing opacity
+
+# for the next 20 minutes
+
+- I want you to play by trying out these different objects
+- so far you have experience by adding a box
+- but check it out, you can add a sphere, cylinder, plane, text
+- try replacing the box with one of these
+- try a combo of objects
+- try changing attributes
+- try adding your own image
